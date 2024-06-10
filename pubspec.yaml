@@ -1,0 +1,85 @@
+name: attendy_
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0-290.0.dev <4.0.0'
+
+dependencies:
+  ai_barcode_scanner: ^0.0.6
+  anim_search_bar: ^2.0.3
+  animated_notch_bottom_bar: ^0.0.6
+  awesome_dialog: ^3.0.2
+  barcode_scan2: ^4.2.3
+  barcode_scanner: ^3.2.4
+  cloud_firestore: ^4.7.0
+  cupertino_icons: ^1.0.5
+  curved_navigation_bar: ^1.0.3
+  dotted_border: ^2.0.0+3
+  excel: ^2.1.0
+  file_picker: ^5.3.0
+  firebase_auth: ^4.6.0
+  firebase_core: ^2.12.0
+  firebase_crashlytics: ^3.3.0
+  firebase_storage: ^11.2.0
+  flutter:
+    sdk: flutter
+  flutter_barcode_scanner: ^2.0.0
+  flutter_charts: ^0.5.1
+  flutter_svg: ^2.0.5
+  image_picker: ^0.8.7+5
+  intl: ^0.18.1
+  ionicons: ^0.2.2
+  mobile_scanner: ^3.2.0
+  path: ^1.8.3
+  qr_code_scanner: ^1.0.1
+  qr_flutter: ^4.1.0
+  sqflite: ^2.2.8+2
+  timelines: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  
+  assets:
+    - images/Home/
+    - images/Notes/no_note_back.jpg
+    - images/Notes/note_back.jpg
+    - images/Home/menu_back.jpg
+    - images/Home/setting_back.jpg
+    - images/Login/
+    - images/Classes/
+    - images/Classes/classes_back.jpg
+    - images/Signup/
+    - images/notification/
+    - images/profile/
+    - images/profile/user.png
+    - images/welcome_page/
+    - images/scan/
+    - images/qr_code/
+    - images/Student_attendance/
+    - images/j_absence/
+    - images/student_information/
+    - images/list/
+
+  fonts:
+    - family: Tahoma
+      fonts:
+        - asset: fonts/tahoma.ttf
+
+    - family: Consola
+      fonts:
+        - asset: fonts/consolas.ttf
+
+    - family: Gadugi
+      fonts:
+        - asset: fonts/gadugi.ttf
+    - family: Gadugi-normal
+      fonts:
+        - asset: fonts/gadugi-normal.ttf
