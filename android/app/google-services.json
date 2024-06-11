@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615212263678",
+    "project_id": "attendy-7de41",
+    "storage_bucket": "attendy-7de41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615212263678:android:703e93c049331658e35daf",
+        "android_client_info": {
+          "package_name": "com.example.attendy_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615212263678-eil0sg352ke4gva6geaei2gf6jsfao7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAivijdeUKPEDu2RIK-88Ar601ScWy2y40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615212263678-eil0sg352ke4gva6geaei2gf6jsfao7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
